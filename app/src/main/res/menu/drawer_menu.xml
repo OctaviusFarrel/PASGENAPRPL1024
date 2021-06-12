@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Profile" android:id="@+id/drawer_profile"/>
+    <item android:title="Seasoned Anime" android:id="@+id/drawer_season_anime"/>
+    <item android:title="Watched Anime" android:id="@+id/drawer_watched"/>
+    <item android:title="Watching Anime" android:id="@+id/drawer_watching"/>
+    <item android:title="Plan to Watch" android:id="@+id/drawer_plant"/>
+    <item android:title="Logout" android:id="@+id/drawer_logout"/>
+</menu>

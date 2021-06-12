@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PASRPL1024</string>
+    <string name="app_title">AniCari</string>
+    <string name="action_bar_text">Example Text</string>
+    <string name="detail_description_text">Description</string>
+    <string name="detail_review_text">Review</string>
+    <string name="detail_related_text">Related</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dialog_1_Title">Enter how many episode</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/no_watch_watching"
+        android:title="Add To Watching"></item>
+    <item
+        android:id="@+id/no_watch_watched"
+        android:title="Add To Watched"></item>
+    <item android:title="Add To Dropped"></item>
+    <item android:title="Rate Anime"></item>
+</menu>

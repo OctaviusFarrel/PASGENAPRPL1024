@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10288895095",
+    "firebase_url": "https://bujumbotwhatsapp.firebaseio.com",
+    "project_id": "bujumbotwhatsapp",
+    "storage_bucket": "bujumbotwhatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10288895095:android:1006dbf820ebb942ef2272",
+        "android_client_info": {
+          "package_name": "com.example.pasrpl1024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10288895095-25cvke5rf4g96j4ohjv3atrknvr9ti58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4jrO0iR-DrXstE_h3O_FvzBhq9FVENUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10288895095-25cvke5rf4g96j4ohjv3atrknvr9ti58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
